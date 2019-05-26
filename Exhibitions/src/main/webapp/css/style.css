@@ -1,0 +1,47 @@
+#checkbox_places {
+	padding: 5px;
+	border: 2px black solid;
+	background: black;
+}
+
+
+.language {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.language a {
+	display: block;
+	height: 100%;
+}
+
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #555;
+}
+.footer--social {
+	padding: 0 15vw;
+	margin-top: 15px;
+	width: 100%;
+}
+
+
+.footer--copyright p {
+	color: #fff;
+}
+
+.social {
+  display: flex;
+  justify-content: space-around;
+}
+
+.social--link i {
+	font-size: 35px;
+	color: #fff;
+}
